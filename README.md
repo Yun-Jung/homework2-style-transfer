@@ -20,7 +20,7 @@ MUNIT是一種非監督型的multimodal圖片轉換方法。
 ### inference
 - summer to  winter with automatic translation (10 pic)
 
-<img src="https://i.imgur.com/w9QUCsQ.jpg" width="50%"> <img src="https://i.imgur.com/PUzhkAQ.gif" width="50%">
+<img src="https://i.imgur.com/w9QUCsQ.jpg" width="40%"> <img src="https://i.imgur.com/PUzhkAQ.gif" width="40%">
 
 - summer to monet style winter
 ![](https://i.imgur.com/KSDCHWr.jpg)
